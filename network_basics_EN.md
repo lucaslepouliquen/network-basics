@@ -15,7 +15,7 @@
 ---
 
 ## IP Addressing
-
+An IP address (Internet Protocol) is a unique numerical identifier assigned to every device connected to a network. 
 ### IPv4
 - **Format:** 4 octets separated by dots
 - **Example:** `192.168.1.10`
