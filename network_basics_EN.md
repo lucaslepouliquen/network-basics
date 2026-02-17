@@ -193,6 +193,8 @@ Client 192.168.1.100 wants to reach 8.8.8.8
 
 ### Routing Table
 
+A routing table is a data structure stored on a router (or any network device) that lists the rules for deciding where to forward incoming packets.
+
 **Example routing table:**
 
 ```
